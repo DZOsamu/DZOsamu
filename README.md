@@ -6,6 +6,8 @@ I'm **Osamu**, a student who is studying✨
 
 
 - 🌱 I'm still at the learning stage.
+- :octocat:I love and own cats.
+
 
 <!--
 - 🔭 I’m currently working on ...
