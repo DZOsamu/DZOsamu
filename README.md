@@ -6,4 +6,3 @@ I'm **Osamu**, a student who is studying✨
 - 🌱 I'm still at the learning stage.
 - 🐱 I love and own cats.
 - 📺 I like watching anime.
-<hr>
