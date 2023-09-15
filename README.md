@@ -7,3 +7,4 @@ I'm **Osamu**, a student who is studying✨
 - 🐱 I love and own cats.
 - 📺 I like watching anime.
 
+<!-- -->
